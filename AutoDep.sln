@@ -25,7 +25,9 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AutoDep", "..\..\WebSites\A
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{2D3DE848-5B0A-4F0D-8A94-C5BF7C6573FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{2D3DE848-5B0A-4F0D-8A94-C5BF7C6573FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppAutoDeploy", "WebAppAutoDeploy\WebAppAutoDeploy.csproj", "{0DCBF7E9-7266-42EF-AB44-6D95D347B987}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{2D3DE848-5B0A-4F0D-8A94-C5BF7C6573FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D3DE848-5B0A-4F0D-8A94-C5BF7C6573FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D3DE848-5B0A-4F0D-8A94-C5BF7C6573FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCBF7E9-7266-42EF-AB44-6D95D347B987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCBF7E9-7266-42EF-AB44-6D95D347B987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCBF7E9-7266-42EF-AB44-6D95D347B987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCBF7E9-7266-42EF-AB44-6D95D347B987}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
